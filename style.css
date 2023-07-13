@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main_frame {
+    width: 1920px;
+}
+
+.header {
+    margin-left: 375px;
+    padding-top: 40px;
+}
+
+.menu_home_link {
+    margin-left: 500px;
+}
+
+.menu_link {
+    margin-left: 36px;
+}
+
+.content {
+    margin-left: 373px;
+    padding-top: 84px;
+}
+
+.text {
+    margin-top: 17px;
+}
+
+.buttons {
+    margin-top: 37px;
+}
+
+.footer {
+    margin-left: 297px;
+    padding-top: 259px;
+}
+
+.logos{
+    margin-left: 48px;
+}
